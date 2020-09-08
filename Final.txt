@@ -1,0 +1,70 @@
+commit 284848a5401269684f77647051fed16ea2ed3a50 (HEAD -> main, origin/main)
+Merge: bd9d019 52de278
+Author: Andrei Plaschin, TI-185 <62337679+Andrei-Yuni@users.noreply.github.com>
+Date:   Tue Sep 8 17:54:36 2020 +0300
+
+    Merge pull request #3 from Andrei-Yuni/1.1
+
+    vetka1
+
+commit 52de2784716d7eb309b601457b17195ed396277b (origin/1.1, 1.1)
+Author: Andrei Plaschin, TI-185<kerokar4@gmail.com>
+Date:   Tue Sep 8 17:50:24 2020 +0300
+
+    vetka1
+
+commit bd9d019482f7a855389feb148e6c6f4188dc0d22
+Author: Andrei Plaschin, TI-185<kerokar4@gmail.com>
+Date:   Tue Sep 8 17:44:16 2020 +0300
+
+    2
+
+commit cbe8f27a61894532ef8d7d1b5ed8e4b76c2688c8
+Author: Andrei Plaschin, TI-185<kerokar4@gmail.com>
+:...skipping...
+commit 284848a5401269684f77647051fed16ea2ed3a50 (HEAD -> main, origin/main)
+Merge: bd9d019 52de278
+Author: Andrei Plaschin, TI-185<62337679+Andrei-Yuni@users.noreply.github.com>
+Date:   Tue Sep 8 17:54:36 2020 +0300
+
+    Merge pull request #3 from Andrei-Yuni/1.1
+
+    vetka1
+
+commit 52de2784716d7eb309b601457b17195ed396277b (origin/1.1, 1.1)
+Author: Andrei Plaschin, TI-185<kerokar4@gmail.com>
+Date:   Tue Sep 8 17:50:24 2020 +0300
+
+    vetka1
+
+commit bd9d019482f7a855389feb148e6c6f4188dc0d22
+Author: Andrei Plaschin, TI-185<kerokar4@gmail.com>
+Date:   Tue Sep 8 17:44:16 2020 +0300
+
+    2
+
+commit cbe8f27a61894532ef8d7d1b5ed8e4b76c2688c8
+Author: Andrei Plaschin, TI-185<kerokar4@gmail.com>
+Date:   Tue Sep 8 17:41:42 2020 +0300
+
+    izm
+
+commit 28623861d982af5ed369f95d727cac33048c6982
+Author: Andrei Plaschin, TI-185osti <kerokar4@gmail.com>
+Date:   Tue Sep 8 17:40:00 2020 +0300
+
+    измененная
+
+commit 9ea60dbdfc2d9c464f11584bf872d2a935711b31
+Merge: e2bfeac fb20f0b
+Author: Yunosti <kerokar4@gmail.com>
+Date:   Tue Sep 8 17:09:33 2020 +0300
+
+    Merge remote-tracking branch 'origin/main' into main
+
+commit fb20f0b60794b87c7d865e9c5eed6879cc97baa1
+Author: Andrei <62337679+Andrei-Yuni@users.noreply.github.com>
+Date:   Tue Sep 8 17:09:27 2020 +0300
+
+    Create 1.3
+
